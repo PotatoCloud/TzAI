@@ -6,3 +6,8 @@ Welcome to browse the open source project of TzAI, we will update our open sourc
 Powered By PotatoCloud&TzAI
 
 Tudou (Zhejiang Taizhou) Technology Co., Ltd.
+
+Official Website of PotatoCloud: http://www.pttidc.cn
+Official Website of TzAI: http://www.tzai.net
+These sites are currently unable to launch due to funding issues.
+Thank you all
